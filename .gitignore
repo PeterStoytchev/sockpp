@@ -1,3 +1,12 @@
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.users
+
+bin/
+bin-inter/
+bit-int/
+
 # Directories for temporaries & build targets
 obj/
 lib/
